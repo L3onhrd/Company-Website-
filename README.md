@@ -1,2 +1,2 @@
 # Company-Website-
-With better frontend elements; on progress.
+With better frontend elements suited with client demands. 
